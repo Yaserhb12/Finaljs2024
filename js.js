@@ -5,7 +5,7 @@ const users = [
         "username": "Yaser Habrat",
         "phone": "050-3443181",
         "email": "yaser@gmail.com",
-        "photo": "images/Boy.png",
+        "photo": "images/boy.png",
         "address":"cana of galil"
     },
     {
@@ -29,7 +29,7 @@ const users = [
         "username": "Christian Levi",
         "email": "christian@gmail.com",
         "phone": "050-1112245",
-        "photo": "images/Boy.png"
+        "photo": "images/boy.png"
         ,
         "address":"Tel-aviv"
     },
@@ -37,7 +37,7 @@ const users = [
         "username": "Alex Rody ",
         "email": "alec9d@gmail.com",
         "phone": "050-1112223",
-        "photo": "images/Boy.png"
+        "photo": "images/boy.png"
         ,
         "address":"jafo"
     },
@@ -45,7 +45,7 @@ const users = [
         "username": "sbestian valero ",
         "email": "wdistian@gmail.com",
         "phone": "050-1111223",
-        "photo": "images/Boy.png"
+        "photo": "images/boy.png"
         ,
         "address":"London"
     },
